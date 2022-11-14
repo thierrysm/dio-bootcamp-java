@@ -13,7 +13,7 @@ mês elas ocorreram (mostrar o mês por extenso: 1 – Janeiro, 2
 – Fevereiro e etc).
  */
 
-public class temperatura {
+public class Temperatura {
 
     public static void main(String[] args) {
 
